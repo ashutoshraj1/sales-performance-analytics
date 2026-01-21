@@ -32,6 +32,3 @@ To analyze sales performance across time, regions, and products and deliver busi
 - `clean.py` – Python cleaning script  
 - `sql_performance.sql` – Business analysis queries  
 - `dashboard/` – Power BI pdf
-
-## 🔗 Dashboard
-(Add your Power BI public link here, if available)
